@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springmvc_001/springmvc_001.iml" filepath="$PROJECT_DIR$/springmvc_001/springmvc_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_002_datasubmit/springmvc_002_datasubmit.iml" filepath="$PROJECT_DIR$/springmvc_002_datasubmit/springmvc_002_datasubmit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_003_ssm_01/springmvc_003_ssm_01.iml" filepath="$PROJECT_DIR$/springmvc_003_ssm_01/springmvc_003_ssm_01.iml" />
+    </modules>
+  </component>
+</project>
